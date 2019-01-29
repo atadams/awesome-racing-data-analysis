@@ -14,6 +14,7 @@ A list of awesome racing data acquisition and analysis resources.
 
 ### Websites
 * [Advanced Racecar Data Analysis Facebook Group](https://www.facebook.com/groups/1951069138531843/)
+* [DrRacing's Blog](https://drracing.wordpress.com/)
 * [James Colborn Racing](http://www.jamescolborn.com/aim-data-analysis/)
 * [TrailBrake.net](https://www.trailbrake.net)
 
