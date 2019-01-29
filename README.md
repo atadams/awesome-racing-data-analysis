@@ -9,6 +9,9 @@ A list of awesome racing data acquisition and analysis resources.
 * [Making Sense of Squiggly Lines](https://www.amazon.com/Making-Sense-Squiggly-Lines-Chris/dp/0983259313/) – Chris Brown
 * [A Practical Guide to Race Car Data Analysis ](https://www.amazon.com/Practical-Guide-Race-Data-Analysis/dp/1456587919/ref=sr_1_1) – Bob Knox
 
+### Publications
+* [White Paper: Influence of Temperature on Tire Grip](http://www.izzeracing.com/Izze_Racing_White_Paper_Tire_Temperature.pdf) — Caleb Holloway, Izze Racing
+
 ### Websites
 * [Advanced Racecar Data Analysis Facebook Group](https://www.facebook.com/groups/1951069138531843/)
 * [James Colborn Racing](http://www.jamescolborn.com/aim-data-analysis/)
@@ -25,6 +28,7 @@ A list of awesome racing data acquisition and analysis resources.
 ## Acquisition
 ### Products
 * [AiM Sportline](http://aim-sportline.com)
+* [Izze Racing](http://www.izzeracing.com/)
 * [MoTeC](https://www.motorsportselectronics.com/collections/data-loggers-and-displays)
 * [VBOX Motorsport](https://www.vboxmotorsport.co.uk/)
 
