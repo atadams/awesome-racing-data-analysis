@@ -17,9 +17,10 @@ A list of awesome racing data acquisition and analysis resources.
 ### Webinars
 * [Auto-Ware’s Data Acquisition Webinars](http://www.auto-ware.com/webinar_home.html)
 
-### Videos
+### Videos & YouTube Channels
 * [AiM Sports on YouTube](https://www.youtube.com/user/aimdata)
 * [Driver 61 – How to Use Data Logging: An Introduction](https://www.youtube.com/watch?v=H4yakLZ1sPs)
+* [Matt Romanowski YouTube Channel](https://www.youtube.com/channel/UCfZdwraZXBIQrips0wmWcZQ) (TrailBrake.net)
 
 ## Acquisition
 ### Products
