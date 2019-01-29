@@ -5,6 +5,7 @@ A list of awesome racing data acquisition and analysis resources.
 
 ### Books
 * [Analysis Techniques for Racecar Data Acquisition](https://www.amazon.com/Analysis-Techniques-Racecar-Data-Aquisition/dp/0768064597/)
+* [The Competition Car Data Logging Manual](https://www.amazon.com/Competition-Data-Logging-Manual-SpeedPro-ebook/dp/B00LGYC1TC) Graham Templeman
 * [Making Sense of Squiggly Lines](https://www.amazon.com/Making-Sense-Squiggly-Lines-Chris/dp/0983259313/)
 * [A Practical Guide to Race Car Data Analysis ](https://www.amazon.com/Practical-Guide-Race-Data-Analysis/dp/1456587919/ref=sr_1_1)
 
