@@ -24,21 +24,29 @@ A list of awesome racing data acquisition and analysis resources.
 ### Videos & YouTube Channels
 * [AiM Sports on YouTube](https://www.youtube.com/user/aimdata)
 * [Driver 61 – How to Use Data Logging: An Introduction](https://www.youtube.com/watch?v=H4yakLZ1sPs)
-* [HiPo Driver YouTube Channel](https://www.youtube.com/channel/UCDS9LbqtRIkweraNN2199tg) — Sean Finnegan
 * [Matt Romanowski YouTube Channel](https://www.youtube.com/channel/UCfZdwraZXBIQrips0wmWcZQ) (TrailBrake.net)
 
 ## Acquisition
 ### Products
 * [AiM Sportline](http://aim-sportline.com)
+* [Autosport Labs RaceCapture](http://autosportlabs.com)
 * [Izze Racing](http://www.izzeracing.com/)
-* [MoTeC](https://www.motorsportselectronics.com/collections/data-loggers-and-displays)
+* [MoTeC](https://www.motec.com.au/)
 * [RacePak](https://www.holley.com/brands/racepak/)
 * [VBOX Motorsport](https://www.vboxmotorsport.co.uk/)
 
-### Mobile Apps
+## Real Time Telemetry
+* [Podium](http://podium.live)
+
+## Mobile Apps
 * [Harry’s LapTimer](http://www.gps-laptimer.de/)
 * [Track Addict](http://racerender.com/TrackAddict/)
 
 ## Software
-* [Cosworth Pi Toolbox](https://www.cosworth.com/products/toolbox/)
+* [Cosworth Toolbox](https://www.cosworth.com/products/toolbox/)
 * [Track Attack](https://trackattack.io/)
+
+## Sensors
+### Manufacturers
+* [Texense](https://texense.com/en/)
+* [KA Sensors](http://www.kasensors.com/us)
