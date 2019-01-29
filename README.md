@@ -32,4 +32,5 @@ A list of awesome racing data acquisition and analysis resources.
 * [Track Addict](http://racerender.com/TrackAddict/)
 
 ## Software
+* [Cosworth Toolbox](https://www.cosworth.com/products/toolbox/)
 * [Track Attack](https://trackattack.io/)
