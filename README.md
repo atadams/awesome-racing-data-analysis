@@ -12,6 +12,9 @@ A list of awesome racing data acquisition and analysis resources.
 * [James Colborn Racing](http://www.jamescolborn.com/aim-data-analysis/)
 * [TrailBrake.net](https://www.trailbrake.net)
 
+### Webinars
+* [Auto-Ware’s Data Acquisition Webinars](http://www.auto-ware.com/webinar_home.html)
+
 ### Videos
 * [AiM Sports on YouTube](https://www.youtube.com/user/aimdata)
 * [Driver 61 – How to Use Data Logging: An Introduction](https://www.youtube.com/watch?v=H4yakLZ1sPs)
