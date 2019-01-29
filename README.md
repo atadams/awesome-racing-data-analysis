@@ -24,6 +24,7 @@ A list of awesome racing data acquisition and analysis resources.
 ### Videos & YouTube Channels
 * [AiM Sports on YouTube](https://www.youtube.com/user/aimdata)
 * [Driver 61 – How to Use Data Logging: An Introduction](https://www.youtube.com/watch?v=H4yakLZ1sPs)
+* [HiPo Driver YouTube Channel](https://www.youtube.com/channel/UCDS9LbqtRIkweraNN2199tg) — Sean Finnegan
 * [Matt Romanowski YouTube Channel](https://www.youtube.com/channel/UCfZdwraZXBIQrips0wmWcZQ) (TrailBrake.net)
 
 ## Acquisition
