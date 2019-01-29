@@ -31,6 +31,7 @@ A list of awesome racing data acquisition and analysis resources.
 * [AiM Sportline](http://aim-sportline.com)
 * [Izze Racing](http://www.izzeracing.com/)
 * [MoTeC](https://www.motorsportselectronics.com/collections/data-loggers-and-displays)
+* [RacePak](https://www.holley.com/brands/racepak/)
 * [VBOX Motorsport](https://www.vboxmotorsport.co.uk/)
 
 ### Mobile Apps
