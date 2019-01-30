@@ -11,6 +11,7 @@ A list of awesome racing data acquisition and analysis resources.
 
 ### Publications
 * [White Paper: Influence of Temperature on Tire Grip](http://www.izzeracing.com/Izze_Racing_White_Paper_Tire_Temperature.pdf) — Caleb Holloway, Izze Racing
+* [Brian Beckman’s The Physics of Racing Series](http://phors.locost7.info/contents.htm)
 
 ### Websites
 * [Advanced Racecar Data Analysis Facebook Group](https://www.facebook.com/groups/1951069138531843/)
